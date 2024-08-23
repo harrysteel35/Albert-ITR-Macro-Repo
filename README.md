@@ -20,7 +20,7 @@ Welcome
    * Add all .bas and .frm files. You may need to do these one by one.
    * Once this is done, close the *Microsoft Visual Basic for Applications* window
    * In the **Developer** tab of Excel, click **Macros**
-   * Click [Insert macro name here]
+   * Click \[Insert macro name here\]
    * Click Run
    * Follow the instructions and prompts
 
