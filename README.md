@@ -10,7 +10,7 @@ Welcome to Albert's ITR Macro repo.
 3. Extract the contents of the .zip folder
    * In the folder where the .zip file is saved, right click on it, then click
  **"Extract All...\"**
-   * After this a window should pop up. Click **Extract**.
+   * After this a window should pop up. Click \"**Extract**\".
 
 ## Instructions for Devs
 1. Installation
