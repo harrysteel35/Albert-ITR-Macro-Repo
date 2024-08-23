@@ -1,5 +1,5 @@
 # Albert's Magic ITR Spreadsheet
-Welcome
+Welcome to the fking show
 
 ## Instructions for Users
 1. Click the big green button above that says **\"<> Code\"**
@@ -10,6 +10,7 @@ Welcome
  **"Extract All...\"**
    * After this a window should pop up. Click \"**Extract**\".
    * The files will be extracted to a folder with the same name as the .zip, copy these into a folder of your choosing.
+4. Add the macro to Excel
    * Open \"ITR_Template.xlsm\"
    * If there is a warning saying \"Macros have been disabled\", click the **Enable** button
    * In Excel, open the **Developer** tab
@@ -19,6 +20,7 @@ Welcome
    * Navigate through your file system to where you saved the contents of this repository
    * Add all .bas and .frm files. You may need to do these one by one.
    * Once this is done, close the *Microsoft Visual Basic for Applications* window
+5. Running the macro/application
    * In the **Developer** tab of Excel, click **Macros**
    * Click \[Insert macro name here\]
    * Click Run
