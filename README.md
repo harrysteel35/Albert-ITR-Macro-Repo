@@ -1,7 +1,5 @@
-# Albert-ITR-Macro-Repo
-
-Welcome to Albert's ITR Macro repo. 
-
+# Albert's Magic ITR Spreadsheet
+Welcome
 
 # Instructions for Users
 1. Click the big green button above that says **\"<> Code\"**
