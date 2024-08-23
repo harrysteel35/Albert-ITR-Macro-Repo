@@ -4,12 +4,13 @@ Welcome to Albert's ITR Macro repo.
 
 
 # Instructions for Users
-1. Click the big green button above that says \"<> Code\"
-2. Click \"Download ZIP\"
+1. Click the big green button above that says **\"<> Code\"**
+2. Click **\"Download ZIP\"**
    * Note that this should just download to your \"Downloads\" folder on your computer
 3. Extract the contents of the .zip folder
    * In the folder where the .zip file is saved, right click on it, then click
- "Extract All...\"
+ **"Extract All...\"**
+   * After this a window should pop up. Click **Extract**.
 
 ## Instructions for Devs
 1. Installation
